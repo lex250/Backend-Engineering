@@ -25,7 +25,7 @@ This project demonstrates a foundational understanding of server-side developmen
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/my-backend-server.git
+git clone https://github.com/lex250/Backend-Engineering/tree/main/my-backend-server
 
 # Navigate into the project folder
 cd my-backend-server
