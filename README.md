@@ -67,7 +67,7 @@ my-backend-server/
 
 ## Author
 
-**Matt**
+**Leslie Anubi**
 
 ---
 *This project is part of my ongoing learning in backend engineering.*
