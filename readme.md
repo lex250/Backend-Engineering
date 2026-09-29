@@ -11,6 +11,7 @@ This repository serves as a central hub for the backend projects I build as I le
 | Project | Description | Tech Stack |
 |---|---|---|
 | [my-backend-server](./my-backend-server) | A simple Node.js server built with Express | Node.js, Express |
+| [typescript-server](./typescript-server) | A simple Node.js server built with Express | Node.js, Typescript, Express |
 
 *This table will grow as new projects are added.*
 
